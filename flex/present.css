@@ -1,0 +1,4 @@
+/*present.css*/ #game { border-radius: 3em; } 
+#game p { padding-top: 8px; font-size: 2em; } 
+img{ height: 100px; width: 100px; } 
+#gift-container { width: 80%; display: flex; justify-content: space-evenly; flex-flow: row wrap;}
