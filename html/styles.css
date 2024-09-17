@@ -1,0 +1,20 @@
+#css-abbr{
+    color: green;
+    font-size: 40pt;
+    text-decoration: underline;
+}
+#short{
+    font-style: italic;
+    text-transform: lowercase;
+    font-size: 14pt;
+}
+#sweet{
+    font-style: italic;
+    color: purple;
+    font-size: 40pt;
+}
+h1{
+    color: #444;
+
+}
+
