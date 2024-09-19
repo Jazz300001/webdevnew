@@ -1,5 +1,3 @@
-const gallery = document.querySelectorAll('img');
-for (let index = 0; index < gallery.length; index++) { 
-    const element = gallery[index]; element.addEventListener('click', openPresent); }
+const gallery = document.getElementsByTagName('div');
     function openPresent(event) { 
         element.src="https://media.giphy.com/media/27ppQUOxe7KlG/giphy.gif"; }
